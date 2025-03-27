@@ -50,6 +50,8 @@ To effectively interpret disaster trends, we used:
 	•	Histograms: Display earthquake magnitude distribution.
 	•	Scatter Plots: Correlate disaster intensity with affected population density.
  	![visualization_result](https://github.com/user-attachments/assets/bcf083cb-576f-4d96-b65d-fcdb90b35b86)
+	![visualization_result2](https://github.com/user-attachments/assets/cff0f6f3-e041-4a46-ac5b-f113cf334b36)
+	![findings_summary](https://github.com/user-attachments/assets/95616ac0-c988-4956-9b08-4de46f28df43)
 
 
 ⸻
@@ -58,7 +60,6 @@ Strategy Adjustments Based on Findings
 
 Initially, we planned to develop region-specific disaster response plans, but our data analysis revealed:
 	•	Earthquake magnitudes follow a relatively uniform distribution.
-	•	Floods and wildfires are influenced by environmental factors rather than specific locations.
 	•	A standardized global response strategy is more effective than regional approaches.
 
 As a result, we pivoted towards a generalized disaster response framework that can be applied across various scenarios.
