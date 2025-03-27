@@ -3,7 +3,7 @@ Predictive Alert System for Natural Disasters
 
 Overview
 
-The Predictive Alert System for Natural Disasters is a data-driven project designed to analyze historical and real-time disaster data to enhance emergency response strategies. Using machine learning and statistical analysis, the system identifies patterns in seismic activity, weather conditions, and environmental factors to provide early warnings for earthquakes, hurricanes, floods, and wildfires.
+The Predictive Alert System for Natural Disasters is a data-driven project designed to analyze historical and real-time disaster data to enhance emergency response strategies. Using machine learning and statistical analysis, the system identifies patterns in seismic activity, weather conditions, and environmental factors to provide early warnings for earthquakes.
 
 By leveraging datasets from Kaggle and other sources, we aim to improve disaster preparedness, optimize resource allocation, and reduce the impact of natural disasters.
 
@@ -24,14 +24,10 @@ Data Collection & Preprocessing
 
 Data Sources
 	•	Kaggle Datasets: Primary source for earthquake, flood, and wildfire historical data.
-	•	USGS (United States Geological Survey): Earthquake records with magnitude, location, depth, and time.
-	•	NOAA (National Oceanic and Atmospheric Administration): Hurricane and storm tracking data.
-	•	NASA & Satellite Data: Flood and wildfire monitoring.
 
 Preprocessing Steps
 	•	Cleaning: Removed incomplete or inconsistent records.
 	•	Normalization: Standardized data formats for uniform analysis.
-	•	Feature Engineering: Extracted key attributes influencing disaster impact.
 
 ⸻
 
@@ -40,8 +36,7 @@ Data Analysis & Key Insights
 Earthquake Data Analysis
 	•	Magnitude Distribution: Most earthquakes fall within a predictable range of 5.5 to 6.5 on the Richter scale.
 	•	Geographical Clustering: Certain regions experience higher seismic activity, allowing for risk zone identification.
-	•	Impact Analysis: Higher magnitude earthquakes correlate with increased casualties and infrastructure damage.
-
+ 
 Weather & Environmental Trends
 	•	Hurricane Paths: Storm intensities increase in coastal regions with warm ocean temperatures.
 	•	Flooding Patterns: High precipitation levels in urban areas with poor drainage systems lead to severe floods.
@@ -54,8 +49,8 @@ Data Visualization
 To effectively interpret disaster trends, we used:
 	•	Histograms: Display earthquake magnitude distribution.
 	•	Scatter Plots: Correlate disaster intensity with affected population density.
-	•	Heatmaps: Identify high-risk zones based on historical data.
-	•	Time-Series Graphs: Track disaster frequency and seasonal patterns over time.
+ 	![visualization_result](https://github.com/user-attachments/assets/bcf083cb-576f-4d96-b65d-fcdb90b35b86)
+
 
 ⸻
 
