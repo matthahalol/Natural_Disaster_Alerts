@@ -23,7 +23,7 @@ Our solution focuses on analyzing historical and real-time disaster data to deve
 Data Collection & Preprocessing
 
 Data Sources
-	•	Kaggle Datasets: Primary source for earthquake, flood, and wildfire historical data. Location in reposetory: 1_warmupstrategy/earthquake_dataset
+	•	Kaggle Datasets: Primary source for earthquake, flood, and wildfire historical data. Location in reposetory: 1_warmupstrategy/earthquake_dataset : https://github.com/matthahalol/Natural_Disaster_Alerts/blob/main/1_warmupstrategy/earthquake_dataset
 
 Preprocessing Steps
 	•	Cleaning: Removed incomplete or inconsistent records.
